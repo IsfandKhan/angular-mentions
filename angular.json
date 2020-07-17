@@ -167,5 +167,5 @@
       }
     }
   },
-  "defaultProject": "angular-mentions"
+  "defaultProject": "@angular2plus/angular-mentions"
 }
